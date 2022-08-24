@@ -10,7 +10,7 @@
 ![주제선정 : 코로나 with 수출](https://github.com/dykim04/Korea-Trade-Analysis/blob/main/img/%EA%B0%9C%EC%9A%942.PNG)
 
 코로나 확진자 수 추세는 (전세계 / 국내 단위) *주제별로 단위는 상이할 수 있음
-- 1. 대한민국 수출
+- 1. [대한민국 수출](https://github.com/dykim04/Korea-Trade-Analysis/blob/main/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%88%98%EC%B6%9C.md)
 - 2. 품목별 수출
 - 3. 국가별 수출
 - 4. 운송구분(해상)
