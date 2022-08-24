@@ -4,10 +4,10 @@
 ### 대한민국 - 수출 주도 국가
 
 ### 수출에 관련한 "다양한 요인들이 존재!"
-![수출요소]([https://github.com/dykim04/Korea-Trade-Analysis/blob/main/%EA%B0%9C%EC%9A%941.PNG](https://github.com/dykim04/Korea-Trade-Analysis/blob/main/img/%EA%B0%9C%EC%9A%941.PNG))
+![수출요소](https://github.com/dykim04/Korea-Trade-Analysis/blob/main/img/%EA%B0%9C%EC%9A%941.PNG)
 
 ### 수출관련 요소 중 코로나 확진자 수 추세에 관련한 주제들이 있을까
-![주제선정 : 코로나 with 수출]([https://github.com/dykim04/Korea-Trade-Analysis/blob/main/%EA%B0%9C%EC%9A%942.PNG](https://github.com/dykim04/Korea-Trade-Analysis/blob/main/img/%EA%B0%9C%EC%9A%942.PNG))
+![주제선정 : 코로나 with 수출](https://github.com/dykim04/Korea-Trade-Analysis/blob/main/img/%EA%B0%9C%EC%9A%942.PNG)
 
 코로나 확진자 수 추세는 (전세계 / 국내 단위) *주제별로 단위는 상이할 수 있음
 1. 대한민국 수출
