@@ -13,8 +13,8 @@
 > 1. [대한민국 수출](https://github.com/dykim04/Korea-Trade-Analysis/blob/main/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD%EC%88%98%EC%B6%9C.md)
 > 2. 국가별 수출
 > 3. 운송구분:항공
-> 4. 운송구분:해상 (자료제공)
-> 5. 품목별 수출 (자료제공)
+> 4. 운송구분:해상 ([자료제공](https://github.com/dykim04/Korea-Trade-Analysis/blob/main/pdf/%EC%BD%94%EB%A1%9C%EB%82%98%20%ED%99%95%EC%A7%84%EC%9E%90%20%EC%B6%94%EC%9D%B4%EC%97%90%20%EB%94%B0%EB%A5%B8%20%ED%95%B4%EC%83%81%20%EC%88%98%EC%B6%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.pdf))
+> 5. 품목별 수출 ([자료제공](https://github.com/dykim04/Korea-Trade-Analysis/blob/main/pdf/%ED%92%88%EB%AA%A9%EB%B3%84%20%EC%88%98%EC%B6%9C%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D.pdf))
 ### 위 다섯가지 주제에 의미있는 영향을 주는지 분석해보는 프로젝트.
 
 ## "프로젝트를 통해 밝은 대한민국 (Bright Korea)에 기여하고자 함"
